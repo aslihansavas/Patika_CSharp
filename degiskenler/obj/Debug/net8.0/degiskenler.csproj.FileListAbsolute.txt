@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/degiskenler/bin/Debug/net8.0/degiskenler
+/Users/aslisavas/Documents/development/degiskenler/bin/Debug/net8.0/degiskenler.deps.json
+/Users/aslisavas/Documents/development/degiskenler/bin/Debug/net8.0/degiskenler.runtimeconfig.json
+/Users/aslisavas/Documents/development/degiskenler/bin/Debug/net8.0/degiskenler.dll
+/Users/aslisavas/Documents/development/degiskenler/bin/Debug/net8.0/degiskenler.pdb
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.dll
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/refint/degiskenler.dll
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.pdb
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/degiskenler.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/degiskenler/obj/Debug/net8.0/ref/degiskenler.dll

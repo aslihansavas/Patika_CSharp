@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/tipdonusumleri/bin/Debug/net8.0/tipdonusumleri
+/Users/aslisavas/Documents/development/tipdonusumleri/bin/Debug/net8.0/tipdonusumleri.deps.json
+/Users/aslisavas/Documents/development/tipdonusumleri/bin/Debug/net8.0/tipdonusumleri.runtimeconfig.json
+/Users/aslisavas/Documents/development/tipdonusumleri/bin/Debug/net8.0/tipdonusumleri.dll
+/Users/aslisavas/Documents/development/tipdonusumleri/bin/Debug/net8.0/tipdonusumleri.pdb
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.dll
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/refint/tipdonusumleri.dll
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.pdb
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/tipdonusumleri.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/tipdonusumleri/obj/Debug/net8.0/ref/tipdonusumleri.dll

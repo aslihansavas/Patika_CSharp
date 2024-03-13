@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/if-else-ternary/bin/Debug/net8.0/if-else-ternary
+/Users/aslisavas/Documents/development/if-else-ternary/bin/Debug/net8.0/if-else-ternary.deps.json
+/Users/aslisavas/Documents/development/if-else-ternary/bin/Debug/net8.0/if-else-ternary.runtimeconfig.json
+/Users/aslisavas/Documents/development/if-else-ternary/bin/Debug/net8.0/if-else-ternary.dll
+/Users/aslisavas/Documents/development/if-else-ternary/bin/Debug/net8.0/if-else-ternary.pdb
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.dll
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/refint/if-else-ternary.dll
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.pdb
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/if-else-ternary.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/if-else-ternary/obj/Debug/net8.0/ref/if-else-ternary.dll

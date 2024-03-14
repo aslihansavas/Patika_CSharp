@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/patikadev_odev1/bin/Debug/net8.0/patikadev_odev1
+/Users/aslisavas/Documents/development/patikadev_odev1/bin/Debug/net8.0/patikadev_odev1.deps.json
+/Users/aslisavas/Documents/development/patikadev_odev1/bin/Debug/net8.0/patikadev_odev1.runtimeconfig.json
+/Users/aslisavas/Documents/development/patikadev_odev1/bin/Debug/net8.0/patikadev_odev1.dll
+/Users/aslisavas/Documents/development/patikadev_odev1/bin/Debug/net8.0/patikadev_odev1.pdb
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.dll
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/refint/patikadev_odev1.dll
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.pdb
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/patikadev_odev1.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/patikadev_odev1/obj/Debug/net8.0/ref/patikadev_odev1.dll

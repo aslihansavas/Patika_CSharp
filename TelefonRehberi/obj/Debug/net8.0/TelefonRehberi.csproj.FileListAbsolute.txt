@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/TelefonRehberi/bin/Debug/net8.0/TelefonRehberi
+/Users/aslisavas/Documents/development/TelefonRehberi/bin/Debug/net8.0/TelefonRehberi.deps.json
+/Users/aslisavas/Documents/development/TelefonRehberi/bin/Debug/net8.0/TelefonRehberi.runtimeconfig.json
+/Users/aslisavas/Documents/development/TelefonRehberi/bin/Debug/net8.0/TelefonRehberi.dll
+/Users/aslisavas/Documents/development/TelefonRehberi/bin/Debug/net8.0/TelefonRehberi.pdb
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.dll
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/refint/TelefonRehberi.dll
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.pdb
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/TelefonRehberi.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/TelefonRehberi/obj/Debug/net8.0/ref/TelefonRehberi.dll

@@ -1,0 +1,14 @@
+/Users/aslisavas/Documents/development/patikadev_odev2/bin/Debug/net8.0/patikadev_odev2
+/Users/aslisavas/Documents/development/patikadev_odev2/bin/Debug/net8.0/patikadev_odev2.deps.json
+/Users/aslisavas/Documents/development/patikadev_odev2/bin/Debug/net8.0/patikadev_odev2.runtimeconfig.json
+/Users/aslisavas/Documents/development/patikadev_odev2/bin/Debug/net8.0/patikadev_odev2.dll
+/Users/aslisavas/Documents/development/patikadev_odev2/bin/Debug/net8.0/patikadev_odev2.pdb
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.AssemblyInfoInputs.cache
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.AssemblyInfo.cs
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.csproj.CoreCompileInputs.cache
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.dll
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/refint/patikadev_odev2.dll
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.pdb
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/patikadev_odev2.genruntimeconfig.cache
+/Users/aslisavas/Documents/development/patikadev_odev2/obj/Debug/net8.0/ref/patikadev_odev2.dll
